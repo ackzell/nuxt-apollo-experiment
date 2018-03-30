@@ -1,0 +1,12 @@
+{
+  "prettier.eslintIntegration": true,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "eslint.validate": ["javascript", "javascriptreact", "vue"],
+  "editor.formatOnSave": true,
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "vue": "html"
+  }
+}
